@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+	<task name = "Task 1" delayFirstStart = "5" operationTime = "20" runCount = "3" />
+	<task name = "Task 2" delayFirstStart = "0" operationTime = "28" runCount = "1" />
+	<task name = "Task 3" delayFirstStart = "10" operationTime = "10" runCount = "1" />
+</tasks>
